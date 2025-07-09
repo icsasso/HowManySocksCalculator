@@ -20,8 +20,8 @@ The following REQUIRED features are completed:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+[Screen_recording_20250708_211222.webm](https://github.com/user-attachments/assets/1c9e2e00-b7bc-404b-a2d7-fb66916b8a19)
 
-<img src='(https://github.com/user-attachments/assets/d6543119-9ade-4495-9276-86350c76f5c3)' title='Video Demo' width='' alt='Video Demo' />
 
 
 ## License
@@ -39,3 +39,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
